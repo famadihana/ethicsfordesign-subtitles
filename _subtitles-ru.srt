@@ -36,99 +36,99 @@
 
 11
 00:00:37,051 --> 00:00:40,198
-Ron Arad the architect and designer had just taken over
+Рон Арад, архитектор и дизайнер, как раз только что приступил
 
 12
 00:00:40,210 --> 00:00:42,159
-the professorship of that course
+обучению этому курсу.
 
 13
 00:00:43,161 --> 00:00:45,140
-I was offered a place and started there
+Мне предожили место, я приступил к обучению
 
 14
 00:00:46,060 --> 00:00:48,099
-and that introduced me to,
+и это познакомило меня с, 
 
 15
 00:00:49,060 --> 00:00:51,218
-I guess, the kind of work we still do to this day:
+я полагаю, работой, которой мы заняты и по сей день:
 
 16
 00:00:52,080 --> 00:00:53,035
-critical design,
+критическим дизайном,
 
 17
 00:00:53,140 --> 00:00:55,209
-using design to question technology,
+дизайном, который ставит под сомнение технологии, 
 
 18
 00:00:56,160 --> 00:00:59,350
-building a lot of interesting products that
+созданием разных интересных продуктов,
 
 19
 00:00:59,642 --> 00:01:01,561
-would do that instead of using the written word,
+которые вместо слов
 
 20
 00:01:02,096 --> 00:01:05,815
-using objects and designed artefacts to
+используют предметы и артефакты,
 
 21
 00:01:06,15 --> 00:01:08,359
-change the way we think about things,
+меняя наш взгляд на вещи
 
 22
 00:01:08,985 --> 00:01:10,737
-to encourage to think differently about
+и побуждая думать по-другому
 
 23
 00:01:10,738 --> 00:01:12,612
-technology and technological products.
+о технологиях и технологических продуктах.
 
 24
 00:01:13,198 --> 00:01:15,283
-You have a device where the signal comes in
+У вас есть устройство, которое получает сигнал,
 
 25
 00:01:15,699 --> 00:01:17,035
-but then that broadcast you
+а затем транслирует его
 
 26
 00:01:17,036 --> 00:01:18,912
-a low frequency into the mouth
+низкочастотными колебаниями в рот,
 
 27
 00:01:19,329 --> 00:01:21,022
-and it translated into
+и это направляется
 
 28
 00:01:22,123 --> 00:01:22,957
-a vibration
+в виде вибраций
 
 29
 00:01:23,458 --> 00:01:25,235
-into the inner ear and it’s perceived as
+во внутреннее ухо и воспринимается как
 
 30
 00:01:26,211 --> 00:01:27,629
-sound streaming, a streaming sound.
+поток звука, звуковой поток.
 
 31
 00:01:28,004 --> 00:01:29,047
-The possibilities are endless,
+Возможности бесконечны,
 
 32
 00:01:29,048 --> 00:01:32,687
-prime ministers could receive secret guidance from their special advisors,
+премьер-министры могут получать секретные руководства от своих специальных советников,
 
 33
 00:01:33,218 --> 00:01:36,102
-football coaches could pass tactical instructions to their players
+футбольные тренеры могут передвать тактические инструкции игрокам на поле,
 
 34
 00:01:36,888 --> 00:01:38,056
-and no one will ever know.
+и никто об этом никогда не узнает.
 
 35
 00:01:38,098 --> 00:01:39,599
